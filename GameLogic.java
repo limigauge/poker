@@ -1,7 +1,4 @@
 /*
- *   CLASS : GameLogic.java
- *   Author: Michelle Li, 7866927
- *
  *   REMARKS: Keeps track of the events and variables of the game, such as players, each with their own hands, the deck, the state of the game,
  *            and decides which messages to print to match the situation of the game.
  *            There are two CPUs that can be swapped by commenting/uncommenting the randomAI = false line of code in constructor (should be line 33).
