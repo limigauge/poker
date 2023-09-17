@@ -1,7 +1,4 @@
 /*
-*   CLASS : Deck.java
-*   Author: Michelle Li, 7866927
-*
 *   REMARKS: The Deck class that implements Deckable. Creates a LinkedList of Cardables for a deck and performs operations on the deck
 *            such as initializing the unique 52 cards with their suits and allowing players to draw from the deck, return cards to the deck, and
 *            shuffle the deck.
