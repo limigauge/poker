@@ -1,7 +1,4 @@
 /*
- *   CLASS : JUnitTests.java
- *   Author: Michelle Li, 7866927
- *
  *   REMARKS: test1() is the sample test from the file unchanged. The other tests will test other parts of compareTo in the Hand class which compares
  * 			  and returns values based on which hand is stronger. These tests will evaluate how well the program can identify hands and their strengths
  * 			  as well as break ties when necessary.
