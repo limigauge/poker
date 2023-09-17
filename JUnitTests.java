@@ -24,7 +24,7 @@ public class JUnitTests {
 		th2.addCards(cards2);
 		
 		assertTrue(th1.compareTo(th2) < 0, "Straight beats Three of a kind.");
-    } //sample test
+    } //random test
 
 
 	/*
