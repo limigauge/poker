@@ -1,7 +1,4 @@
-// CLASSES: PokerTableDisplay, HandDisplay, CardDisplay
-//
-// Author: Dr. Olivier Tremblay-Savard
-//
+// 
 // REMARKS: You should not modify this file. This class handles all the GUI elements.
 //
 //-----------------------------------------
