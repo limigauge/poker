@@ -1,7 +1,4 @@
 /*
- *   CLASS : AI.java
- *   Author: Michelle Li
- *
  *   REMARKS: Abstract class for AI that is a subclass of player. Is the parent of the CPU types: random CPU and smarter CPU.
  */
 
