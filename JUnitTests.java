@@ -12,10 +12,6 @@ import org.junit.jupiter.api.Test;
 
 public class JUnitTests {
 
-
-	//YOU ARE AN IDIOT MAKE SURE TO ACTUALLY CREATE AN OBJECT BEFORE JUST TRYING TO CALL METHODS RANDOMLY
-
-
     @Test
     public void test1() 
 	{
