@@ -1,9 +1,5 @@
 public interface Cardable
 {
-	//Enum for the suit. Enum works like a type that has predefined constant values that can be assigned to it.
-	//Declare a variable of this type like this: Suit mySuit;
-	//Access one specific value like this: Suit.HEART
-	//From a different class, access using the interface name: Cardable.Suit.DIAMOND
 	public enum Suit {HEART, DIAMOND, SPADE, CLUB};
 	
 	//Methods:
