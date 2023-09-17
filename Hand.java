@@ -1,7 +1,4 @@
 /*
- *   CLASS : Hand.java
- *   Author: Michelle Li, 7866927
- *
  *   REMARKS: Hand class that implements Handable and TestHand's methods. Keeps track of a hand and is able to draw or discard Cards from the Hand.
  *            Also evaluates the strength of a hand or compares the hand to other hands.
  */
