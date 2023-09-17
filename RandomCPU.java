@@ -1,7 +1,4 @@
 /*
- *   CLASS : RandomCPU.java
- *   Author: Michelle Li, 7866927
- *
  *   REMARKS: A class for a player CPU that chooses random cards from its hand to discard.
  */
 
