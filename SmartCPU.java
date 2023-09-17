@@ -1,7 +1,4 @@
 /*
- *   CLASS : SmartCPU.java
- *   Author: Michelle Li, 7866927
- *
  *   REMARKS: Smarter CPU that doesn't just discard at random: instead, makes the simple, but reasonable move to check for any strong hands (such as
  *            Straight Flushes, etc., and if those aren't immediately found, keep the duplicates (pairs, trips, quads) and discard the singles OR,
  *            if all cards are singles, keep the highest single.
