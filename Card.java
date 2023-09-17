@@ -1,7 +1,4 @@
 /*
- *   CLASS : Card.java
- *   Author: Michelle Li
- *
  *   REMARKS: The Card class that implements the methods of Cardable. A Card object stores information of each card such as its suit, number, whether
  *            or not the card has been selected in game, and whether the card should be displayed face up. There is a toString method that creates a string
  *            for representing the value on the card as well as its suit.
