@@ -1,5 +1,5 @@
 // 
-// REMARKS: You should not modify this file. This class handles all the GUI elements.
+// REMARKS: This class handles all the GUI elements.
 //
 //-----------------------------------------
 
